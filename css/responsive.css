@@ -1,0 +1,598 @@
+@media(max-width: 1500px) {
+    .menu nav li a {
+        padding-right: 12px;
+        padding-left: 12px;
+        font-size: 17px;
+    }
+    .header-logo {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .menu nav li a .fa {
+        font-size: 25px;
+    }
+    .banner {
+        margin-top: 117px;
+    }
+    .banner .imagen-fondo {
+        max-width: 100%;
+        width: inherit;
+    }
+    .banner .cuadro-texto h1 {
+        font-size: 55px;
+    }
+    .laboratorio .nav-pills .nav-link p {
+        font-size: 19px;
+    }
+    .laboratorio h3 {
+        font-size: 40px;
+        padding-bottom: 30px;
+    }
+    .laboratorio p {
+        font-size: 18px;
+    }
+    h4 {
+        font-size: 28px;
+    }
+    footer .contenedor-xl div a {
+        font-size: 28px;
+    }
+    .corporativo h3 {
+        padding-top: 25px;
+    }    
+    .laboratorio .nav-pills .nav-link.active p:after {
+        width: 54px;
+    }
+}
+@media(max-width: 1200px) {
+    p {
+        font-size: 15px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    .menu nav li a {
+        padding-right: 10px;
+        padding-left: 10px;
+        font-size: 14px;
+    }
+    header .header-logo a img {
+        max-width: 260px;
+    }
+    .menu {
+        padding-top: 40px;
+    }   
+    .banner {
+        margin-top: 107px;
+    }
+    .banner .cuadro-texto h1 {
+        font-size: 45px;
+    }
+    .titulo-lab, .titulo-corp, .titulo-farma {
+        max-width: 70%;
+    }
+    .laboratorio .nav-pills .nav-link p {
+        font-size: 15px;
+    }
+    .laboratorio .tab-content {
+        padding: 50px 40px 50px 140px;
+    }
+    .laboratorio h3 {
+        font-size: 35px;
+        padding-bottom: 25px;
+    }    
+    .laboratorio p {
+        font-size: 15px;
+    }
+    h4 {
+        font-size: 22px;
+    }
+    footer .contenedor-xl div a {
+        font-size: 22px;
+    }
+    .multiple-items img {
+        width: 70%;
+    }
+    .sucursales h4, .sucursales a {
+        font-size: 19px;
+    }
+}
+@media(max-width: 1100px) {
+    .nosotros h3 {
+        font-size: 35px;
+        padding: 50px 0 25px 0;
+    }
+    .nosotros p {
+        font-size: 18px;
+    }
+    .nosotros .nav-tabs .nav-link.active, .nosotros .nav-tabs .nav-link{
+        width: 130px;
+    }
+    .nosotros .accordion-button {
+        font-size: 18px;
+    }
+    .sucursales h4, .sucursales a {
+        font-size: 17px;
+    }
+}
+@media(max-width: 992px) {
+    h2 {
+        font-size: 25px;
+    }
+    .menu nav li a {
+        padding-right: 8px;
+        padding-left: 8px;
+        font-size: 11px;
+    }
+    .banner {
+        margin-top: 104px;
+    }
+    header .header-logo a img {
+        max-width: 200px;
+    }
+    .menu nav li a .fa {
+        font-size: 18px;
+    } 
+    .banner .cuadro-texto h1 { 
+        font-size: 35px;
+    }
+    .actividades .farma, .actividades .lab, .actividades .corp {
+        padding: 40px 20px 30px 20px;
+    }
+    .actividades img {
+        margin: 0 auto;
+        padding-bottom: 20px;
+    }
+    .nosotros h3 {
+        font-size: 30px;
+        padding: 50px 0 25px 0;
+    }
+    .nosotros p, .laboratorio p , p {
+        font-size: 17px;
+    }
+    .nosotros .nav-tabs .nav-link.active, .nosotros .nav-tabs .nav-link {  
+        font-size: 17px;
+        margin-right: 5px;
+    }
+    .nosotros .accordion-button {
+        font-size: 15px;
+    }
+    .nosotros img {
+        max-width: 300px;;
+    }
+    .laboratorio {
+        background-color: #fff;
+        background-image: none;
+        padding: 50px 0 50px 0;
+        margin-top: 5px;
+    }
+    .laboratorio .contenedor-xl {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .tablet-view {
+        display: block;
+    }
+    .lab-01, .lab-02 {
+        width: 100%;
+    }
+    .lab-02 {
+        padding-top: 50px;
+        margin-left: 0;
+    }
+    .laboratorio .nav {
+        padding-left: 50px;
+    }
+    .laboratorio .tab-content {
+        padding: 50px 40px 50px 50px;
+    }
+    .corporativo .contenedor-xl .contenedor-corporativo {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .atencion-corp {
+        width: 100%;
+        padding: 0 20px;
+        padding-bottom: 40px;
+    }
+    .atencion-corp img {
+        padding-bottom: 20px;
+    }
+    .imagen-corp {
+        width: 100%;
+        text-align: center;
+    }
+    h4 {
+        font-size: 16px;
+    }
+    footer .contenedor-xl div a {
+        font-size: 18px;
+    }
+    .multiple-items img {
+        width: 50%;
+    }
+    .corporativo h3 {
+        padding-top: 0px;
+        padding-bottom: 5px;
+        max-width: inherit;
+    }
+    .header-mapa a img {
+        width: 20%;
+    }
+    .header-mapa a h2 {
+        font-size: 15px;
+    }
+    header .menu nav {
+        margin-left: -120px;
+    }
+    .nosotros .contenedor-xl {
+        align-items: flex-start;
+    }
+    .laboratorio .nav-pills .nav-link.active p:after {
+        width: 44px;
+    }
+    .sucursales-mapa {
+        flex-direction: column-reverse;
+    }
+    .sucursales-mapa iframe {
+        position: static;
+        width: 100% !important;
+        height: 560px !important;
+        margin-top: -54px;
+    }
+    .sucursales {
+        width: 100%;
+    }
+    .seccion-mapa .contenedor-xl {
+        padding: 0 0;
+    }
+    .titulo-farma {
+        padding-left: 20px;
+    }
+}
+@media(max-width: 768px) {
+    h3 {
+        font-size: 33px;
+    }
+    p {
+        font-size: 14px;
+    }
+    header {
+        padding: 5px 0;
+    }
+    .header-logo img {
+        max-width: 150px;
+    }
+    header .contenedor .logo-mobile {
+        display: block;
+    }
+    .menu nav li a {
+        padding-top: 10px;
+    }
+    .navbar-toggler {
+        display: block;
+        width: 32px;
+        height: 32px;
+        padding: 0;
+        position: absolute;
+        transform: rotate(0deg);
+        transition: transform .5s ease-in-out;
+        cursor: pointer;
+        top: 18px;
+        right: 18px;
+        z-index: 9;
+        background: white;
+        border-top: 8px solid white;
+        border-bottom: 8px solid white;
+        border-right: 5px solid white;
+        border-left: 5px solid white;
+        border-radius: 0;
+    }
+    .navbar-toggler:focus {
+        outline: none;
+        box-shadow: none;
+    }
+    .navbar-toggler	span {
+        background-color: #15335D;
+        display: block;
+        position: absolute;
+        height: 3px;
+        width: 100%;
+        opacity: 1;
+        left: 0;
+        transform: rotate(0deg);
+        transition: transform .25s ease-in-out;
+        background-size: 100%;
+    }
+    .navbar-toggler span:nth-child(1) {
+        top: 0px;
+    }
+    .navbar-toggler span:nth-child(2), .navbar-toggler span:nth-child(3) {
+        top: 6px;
+    }
+    .navbar-toggler span:nth-child(4) {
+        top: 12px;
+    }
+    .menu-animation span {
+        background-color: #000;
+    }
+    .menu-animation span:nth-child(1) {
+        top: 18px;
+        width: 0%;
+        left: 50%;
+    }
+    .menu-animation span:nth-child(2) {
+        -webkit-transform: rotate(42deg);
+        transform: rotate(42deg);
+    }
+    .menu-animation span:nth-child(3) {
+        -webkit-transform: rotate(-42deg);
+        transform: rotate(-42deg);
+    }
+    .menu-animation span:nth-child(4) {
+        top: 18px;
+        width: 0%;
+        left: 50%;
+    }
+    header .menu {
+        background-color: #fff;
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 100vh;
+        z-index: 7;
+    }
+    .header-mobile {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .menu nav li a {
+        color: #003058;
+    }
+    .header-mobile img {
+        max-width: 180px;
+        padding-top: 15px;
+    }
+    .menu nav li.desktop-view {
+        display: none;
+    }
+    .menu ul {
+        flex-direction: column;
+        align-items: flex-start;
+        padding-inline-start: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .desktop-view {
+        display: none;
+    }
+    .mobile-view {
+        display: block;
+    }
+    .menu nav li {
+        padding-right: 25px;
+        padding-top: 15x;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #51555A;
+        width: 100%;
+    }
+    .menu nav li:first-child {
+        padding-top: 20px;
+    }
+    .menu nav li:nth-child(5), .menu nav li:nth-child(6), .menu nav li:nth-child(7) {
+        border-bottom: 0;
+    }
+    .header-logo {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: 100%;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        padding-right: 40px;
+    }
+    header .menu nav {
+        margin-left: 0; 
+    }
+    .banner {
+        margin-top: 58px;
+    }
+    .banner .mobile-view h1 {
+        font-size: 34px;
+    }
+    .banner .cuadro-texto {
+        top: 60%;
+        left: 40px;
+    }
+    h2 {
+        font-size: 14px;
+    }
+    .actividades img {
+        padding-bottom: 10px;
+        max-width: 115px;
+    }
+    .actividades .farma, .actividades .lab, .actividades .corp {
+        padding: 30px 15px 20px 15px;
+        text-align: start;
+    }
+    .nosotros h3 {
+        font-size: 18px;
+        padding: 30px 0 0px 0;
+    }
+    .nosotros .nav-tabs .nav-link.active, .nosotros .nav-tabs .nav-link {
+        font-size: 12px;
+        margin-right: 5px;
+    }
+    .multiple-items img {
+        width: 70%;
+    }
+    .historia-equipo {
+        max-width: 300px;
+    }    
+    .nosotros img {
+        margin-top: -60px;
+    }
+    .nosotros p {
+        font-size: 12px;
+    }
+    .nosotros img {
+        max-width: 200px;
+    }
+    .nosotros .nav-tabs .nav-link.active, .nosotros .nav-tabs .nav-link {
+        width: 125px;
+    }
+    .laboratorio .nav {
+        padding-left: 20px;
+    }
+    .laboratorio .tab-content {
+        padding: 20px 0 20px 30px;
+    }
+    .laboratorio .nav-pills .nav-link p {
+        font-size: 13px;
+    }
+    .laboratorio p {
+        font-size: 14px;
+    }
+    .atencion-corp {
+        padding: 0;
+    }
+    footer .contenedor-xl {
+        flex-direction: column;
+    }
+    footer .contenedor-xl div img {
+        display: block;
+        width: 80%;
+        margin: 0 auto;
+        padding-bottom: 20px;
+    }
+    h4 {
+        font-size: 25px;
+    }
+    footer .contenedor-xl div a {
+        font-size: 25px;
+    }
+    footer .contenedor-xl {
+        padding-top: 40px;
+    }
+    footer .contenedor-xl div {
+        padding: 15px 10px;
+        margin: 0 auto;
+    }
+    footer {
+        background-image: url(../images/fondo-footer-mobile-02.png);
+    }
+    .header-mapa {
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+    }
+    .header-mapa a  {
+        padding-top: 25px;
+    }
+    .header-mapa a img {
+        width: inherit;
+    }
+    .header-logo div a {
+        display: inline;
+    }
+    .laboratorio .nav-pills .nav-link.active p:after {
+        width: 34px;
+    }
+
+
+}
+@media(max-width: 556px) {
+    p {
+        font-size: 12px;
+    }
+    h3 {
+        font-size: 28px;
+    }
+    .banner .cuadro-texto h1 {
+        font-size: 22px;
+    }
+    .banner .cuadro-texto {
+        left: 20px;
+    }
+    .nosotros img {
+        margin-top: -50px;
+    }
+    .nosotros h3 {
+        font-size: 13px;
+        padding: 15px 0 0px 0;
+    }
+    .nosotros .accordion-button {
+        font-size: 9px;
+    }
+    .nosotros img {
+        max-width: 165px;;
+    }
+    .nosotros .accordion-button::after {
+        width: 10px;
+        height: 10px;
+        background-size: 10px;
+    }
+    .nosotros p {
+        font-size: 10px;
+    }
+    .historia-equipo {
+        max-width: 180px;
+    }
+    .nosotros .nav-tabs .nav-link.active, .nosotros .nav-tabs .nav-link {
+        width: 110px;
+        padding: 5px 0;
+        margin-bottom: 5px;
+    }
+    .actividades img {
+        max-width: 80px;
+    }
+    .laboratorio .nav {
+        padding-left: 0;
+    }
+    .laboratorio .tab-content {
+        padding: 20px 0 20px 0px;
+    }
+    .laboratorio .nav-link {
+        margin: 0 5px;
+    }
+    .laboratorio h3 {
+        font-size: 30px;
+    }
+    .laboratorio .nav-pills .nav-link p {
+        font-size: 8px;
+    }
+    .laboratorio p {
+        font-size: 12px;
+    }
+    h4 {
+        font-size: 18px;
+    }
+    footer .contenedor-xl div a {
+        font-size: 18px;
+    }
+    .copyright {
+        padding: 20px 20px;
+    }
+    .copyright p {
+        font-size: 12px;
+    }
+    footer .contenedor-xl div img {
+        padding-bottom: 5px;
+    }
+    .laboratorio .nav-pills .nav-link.active p:after {
+        width: 24px;
+    }
+    .sucursales h4, .sucursales a {
+        font-size: 14px;
+    }
+    .sucursales .sucursal-sec {
+        padding: 50px 0px 50px 0;
+    }
+    .sucursales {
+        padding: 50px 10px;
+    }
+}
